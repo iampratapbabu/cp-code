@@ -1,1 +1,0 @@
-In this folder all codes with explanation is stored which is solely based on coding ninjas competitive programing course
